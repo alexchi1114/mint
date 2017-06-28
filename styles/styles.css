@@ -1,0 +1,88 @@
+html{
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+#header{
+	background-color: white;
+	width:800px;
+	height:96px;
+	padding-top:40px;
+	margin-bottom:15px;
+	margin: 0 auto;
+}
+
+#header ul li {
+	display: inline;
+}
+
+#header ul {
+	float:right;
+}
+
+#logo{
+	display: inline-block;
+}
+
+#content{
+	width:700px;
+	height:717px;
+	padding:43px 50px 50px 50px;
+	margin: 0 auto;
+	box-shadow: 2px 1px 1px 3px #edeff2;
+}
+
+
+#signup-body{
+	width:500px;
+	height:700px;
+	display: inline-block;
+}
+
+#sidebar{
+	display:inline;
+	width:177px;
+	height:540px;
+	padding-bottom: 19px;
+	padding-left:15px;
+	float:right;
+	float:top;
+	margin: 0 auto;
+	border-left: 1px solid #edeff2;
+}
+
+#sidebar ul li{
+	color: #a5a5a5;
+	font-size: 16px;
+}
+
+#sidebar ul{
+	position: relative;
+	right:25px;
+
+}
+
+.form-entry{
+	width:398px;
+	height:96px;
+}
+
+.form-box{
+	width:320px;
+	height:30px;
+
+}
+
+#sign-up-button{
+	width:80px;
+	height:34px;
+	padding:0px 20px;
+	background-color: rgb(69, 202, 230);
+	border-radius: 3px;
+	color:white;
+	text-align: center;
+	vertical-align: center;
+	line-height: 34px;
+}
+
+
+
